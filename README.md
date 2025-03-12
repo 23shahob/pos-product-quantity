@@ -1,0 +1,1 @@
+POS(point_of_sale) product card => adding quantity on card
